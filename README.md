@@ -28,7 +28,7 @@ samples, guidance on mobile development, and a full API reference.
 ![StudyMainPage](https://user-images.githubusercontent.com/48337874/188549333-1bb2207c-0991-4b0b-91bb-714a681a6106.png)
 
 ### Authentication
-- Check Authentication -> [Authentication_Design](https://github.com/GeonwooVincentKim/Happy_Drip/blob/master/README_Authentication.md)
+- Check Authentication -> [README_Authentication](https://github.com/GeonwooVincentKim/Happy_Drip/blob/master/README_Authentication.md)
 
 ### Study
 - Check Study -> [README_Study](https://github.com/GeonwooVincentKim/Happy_Drip/blob/master/README_Study.md)
