@@ -36,11 +36,11 @@ samples, guidance on mobile development, and a full API reference.
 ![SignInPage](https://user-images.githubusercontent.com/48337874/188382912-69b1a83b-fac2-4753-bf67-b1edeb3cfa02.png)
 
 ### Study
-- Check -> [README_Study](https://github.com/GeonwooVincentKim/Happy_Drip/tree/master/README_Study.md)
+- Check [README_Study] -> [README_Study](https://github.com/GeonwooVincentKim/Happy_Drip/blob/master/README_Study.md)
 
 ### BookList
-- Check ![README_Book](https://github.com/GeonwooVincentKim/Happy_Drip/blob/master/README_Book.md)
+- Check [README_Book] -> [README_Book](https://github.com/GeonwooVincentKim/Happy_Drip/blob/master/README_Book.md)
 
 ### Exercise
-- Check ![README_Exercise](https://github.com/GeonwooVincentKim/Happy_Drip/blob/master/README_Exercise.md)
+- Check [README_Exercise] -> [README_Exercise](https://github.com/GeonwooVincentKim/Happy_Drip/blob/master/README_Exercise.md)
 
