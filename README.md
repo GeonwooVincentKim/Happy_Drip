@@ -35,8 +35,12 @@ samples, guidance on mobile development, and a full API reference.
 ![SignIn_with_Email_Page](https://user-images.githubusercontent.com/48337874/188382910-7792cc49-878d-4bf1-b439-f5217c826b68.png)
 ![SignInPage](https://user-images.githubusercontent.com/48337874/188382912-69b1a83b-fac2-4753-bf67-b1edeb3cfa02.png)
 
-### Study Detail
-![StudySeeAll_AllSubjectsPage](https://user-images.githubusercontent.com/48337874/188549325-84866c83-e5cd-4a3f-b261-795560efff32.png)
-![StudySeeAll_RecentlyViewedPage](https://user-images.githubusercontent.com/48337874/188549331-9fc850d9-b407-4a5c-8d35-46f75558560a.png)
+### Study
+- Check ![README_Study](https://github.com/GeonwooVincentKim/Happy_Drip/blob/master/README_Study.md)
 
+### BookList
+- Check ![README_Book](https://github.com/GeonwooVincentKim/Happy_Drip/blob/master/README_Book.md)
+
+### Exercise
+- Check ![README_Exercise](https://github.com/GeonwooVincentKim/Happy_Drip/blob/master/README_Exercise.md)
 
