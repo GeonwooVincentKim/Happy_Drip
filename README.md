@@ -20,11 +20,12 @@ samples, guidance on mobile development, and a full API reference.
 
 ## Basic Design of this Application
 
-### Main, Banner, Exercise, BookList
+### Main, Banner, Exercise, BookList, Study
 ![BannerPage_Design](https://user-images.githubusercontent.com/48337874/188268662-1daf1dc7-3b0b-41a1-ae9f-f03d4e452952.png)
-![MainPage_Design](https://user-images.githubusercontent.com/48337874/188268669-e3d330cb-dc46-413c-b5ca-4d18c44d20e6.png)
+![MainPage_Design](https://user-images.githubusercontent.com/48337874/188549366-654c7188-e088-4a07-bfbc-a7a8d664cbb8.png)
 ![ExerciseMainPage](https://user-images.githubusercontent.com/48337874/188364966-d5785afd-5c9e-4fd2-9869-ae7b63fdf890.png)
 ![BookListPage](https://user-images.githubusercontent.com/48337874/188531669-2fd43036-8968-4ed3-94c1-b9be9bc9ab86.png)
+![StudyMainPage](https://user-images.githubusercontent.com/48337874/188549333-1bb2207c-0991-4b0b-91bb-714a681a6106.png)
 
 ### Authentication
 ![AccountPage](https://user-images.githubusercontent.com/48337874/188382892-ae32d7b9-7fcb-45b8-a219-94ea035d15eb.png)
@@ -33,3 +34,9 @@ samples, guidance on mobile development, and a full API reference.
 ![ProfilePage](https://user-images.githubusercontent.com/48337874/188382908-4ec7f581-f48c-40fb-a8ca-a818e147b699.png)
 ![SignIn_with_Email_Page](https://user-images.githubusercontent.com/48337874/188382910-7792cc49-878d-4bf1-b439-f5217c826b68.png)
 ![SignInPage](https://user-images.githubusercontent.com/48337874/188382912-69b1a83b-fac2-4753-bf67-b1edeb3cfa02.png)
+
+### Study Detail
+![StudySeeAll_AllSubjectsPage](https://user-images.githubusercontent.com/48337874/188549325-84866c83-e5cd-4a3f-b261-795560efff32.png)
+![StudySeeAll_RecentlyViewedPage](https://user-images.githubusercontent.com/48337874/188549331-9fc850d9-b407-4a5c-8d35-46f75558560a.png)
+
+
