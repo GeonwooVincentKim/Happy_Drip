@@ -24,7 +24,7 @@ samples, guidance on mobile development, and a full API reference.
 ![BannerPage_Design](https://user-images.githubusercontent.com/48337874/188268662-1daf1dc7-3b0b-41a1-ae9f-f03d4e452952.png)
 ![MainPage_Design](https://user-images.githubusercontent.com/48337874/188268669-e3d330cb-dc46-413c-b5ca-4d18c44d20e6.png)
 ![ExerciseMainPage](https://user-images.githubusercontent.com/48337874/188364966-d5785afd-5c9e-4fd2-9869-ae7b63fdf890.png)
-![BookListPage](https://user-images.githubusercontent.com/48337874/188364974-f87e1227-9e0c-43da-97b0-2263af64fdff.png)
+![BookListPage](https://user-images.githubusercontent.com/48337874/188531669-2fd43036-8968-4ed3-94c1-b9be9bc9ab86.png)
 
 ### Authentication
 ![AccountPage](https://user-images.githubusercontent.com/48337874/188382892-ae32d7b9-7fcb-45b8-a219-94ea035d15eb.png)
