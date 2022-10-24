@@ -23,6 +23,7 @@ samples, guidance on mobile development, and a full API reference.
 ### Main, Banner, Exercise, BookList, Study
 ![BannerPage_Design](https://user-images.githubusercontent.com/48337874/188268662-1daf1dc7-3b0b-41a1-ae9f-f03d4e452952.png)
 ![MainPage_Design](https://user-images.githubusercontent.com/48337874/188549366-654c7188-e088-4a07-bfbc-a7a8d664cbb8.png)
+![MainPage_Design_Footer_Area](https://user-images.githubusercontent.com/48337874/196864586-d658f333-cca4-42ca-99a8-c5e52420282d.png)
 ![ExerciseMainPage](https://user-images.githubusercontent.com/48337874/188364966-d5785afd-5c9e-4fd2-9869-ae7b63fdf890.png)
 ![BookListPage](https://user-images.githubusercontent.com/48337874/188531669-2fd43036-8968-4ed3-94c1-b9be9bc9ab86.png)
 ![StudyMainPage](https://user-images.githubusercontent.com/48337874/188549333-1bb2207c-0991-4b0b-91bb-714a681a6106.png)
