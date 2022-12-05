@@ -1,8 +1,9 @@
 import 'package:flutter/material.dart';
 import 'package:happy_drip/app_screens/home/Home.dart';
+import 'package:happy_drip/app_screens/not_exist.dart';
 import 'package:happy_drip/example/example_backup_code.dart';
 
-void main() => runApp(MyApp());
+void main() => runApp(const MyApp());
 
 class MyApp extends StatelessWidget {
   const MyApp({super.key});
@@ -13,8 +14,8 @@ class MyApp extends StatelessWidget {
       title: "Happy Drip",
       initialRoute: "/",
       routes: {
-        "/": (context) => Home(),
-        "/doctor": (context) => Home(),
+        "/": (context) => const Home(),
+        "/doctor": (context) => const Home(),
       },
       onGenerateRoute: (settings) {
         if (settings.name == PassArgumentsScreen.routeName) {
@@ -35,7 +36,7 @@ class MyApp extends StatelessWidget {
       },
       onUnknownRoute: (RouteSettings settings) {
         return MaterialPageRoute(
-          builder: (context) => Home(),
+          builder: (context) => const NotExist(),
         );
       },
     );
